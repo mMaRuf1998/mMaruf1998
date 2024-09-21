@@ -1,6 +1,6 @@
 # ⚡ About Me:
 - 🔭 I have graduated from **IIT - Jahangirnagar University**
-- 🔭 Experienced on Problem Solving , Software Development and Machine Learning  
+- 💫 Experienced on **Problem Solving , Software Development and Machine Learning**  
 - 🌱 Currently doing projects on Full Stack Development using MERN stack<br>I'm looking to collaborate with Software Engineers <br>
 - 💬 Ask me about **Software Engineering**
 
