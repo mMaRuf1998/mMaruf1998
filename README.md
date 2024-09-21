@@ -5,6 +5,5 @@
 - 💬 Ask me about **Software Engineering**
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mMaruf1998&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mMaruf1998&theme=default_repocard&hide_border=false)<br/>
 
