@@ -1,4 +1,4 @@
-# ⚡ About Me:
+# ⚡ About Me:  (This profile was locked since 2024 due to 2FA authentication. I was able to recover using recovery codes in November 2025) 
 - 🔭 I have graduated from **IIT - Jahangirnagar University**
 - 💫 Experienced on **Problem Solving , Software Development and Machine Learning**  
 - 🌱 Currently doing projects on Full Stack Development using MERN stack
