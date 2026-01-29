@@ -4,7 +4,7 @@
 - 🌱 Currently doing projects on Full Stack Development using MERN stack
 - 💬 Ask me about **Software Engineering**
 
-- # This profile was locked since 2024 due to 2FA authentication. I was able to recover using recovery codes in November 2025) 
+- # This profile was locked since 2024 due to 2FA authentication issues as my phone was stolen. I was able to recover using recovery codes in November 2025) 
 
 
 # 📊 GitHub Stats:
