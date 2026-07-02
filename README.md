@@ -7,4 +7,4 @@
   
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mMaruf1998&theme=default_repocard&hide_border=false )<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mMaruf1998&zone=Asia/Dhaka&theme=default_repocard&hide_border=false)<br/>
